@@ -1,0 +1,2 @@
+#Ayu Musfita Nainggolan
+The objective of task week0 is to prepare/create the github account that will be used as a repository for all task and lab. Also prepare the environment such as registering github account and the LDAP account to get connected to kawung server.
