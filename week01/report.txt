@@ -1,0 +1,6 @@
+#Ayu Musfita Nainggolan
+
+The objective of task week01 are 
+- Introduce some of command in linux that incuded change directory, create, update and delete file. 
+- Introduce some activity in git to pull and push file to git account
+- Shell scripting
