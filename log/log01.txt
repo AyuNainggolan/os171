@@ -1,0 +1,8 @@
+w01-170214-19-LR-About: Operating System Structure,   From: Lecturer
+w01-170214-19-LR-About: Operating System Structure,   From: Lecturer
+w01-170214-20-LR-About: Operating System Structure,   From: Lecturer
+w01-170214-20-LR-About: Operating System Structure,   From: Lecturer
+w01-170214-20-LR-About: Hak Kekayaan Intelektual,     From: Lecturer
+w01-170214-21-PS-About: Introduce to Shell Scripting in Lab, From: Lecturer
+w01-170215-18-PS-About: Git(Push, Pull), Create/Update/Delete File and Folder
+w01-170218-10-DS-About: Shell scipting
