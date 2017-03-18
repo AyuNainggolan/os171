@@ -5,6 +5,6 @@ w05-170314-20-LR-About: Memory, From : Lecturer
 w05-170314-21-LR-About: Quiz 2
 w05-170318-10-DS-About: Discuss about Memory allocation in C and top command in Linux
 w05-170318-10-DS-About: Discuss about Memory allocation in C and top command in Linux
-w05-170318-11-LR-About: Memory
-w05-170318-11-LR-About: Memory
-w05-170318-12-LR-About: Memory
+w05-170318-11-PS-About: Memory
+w05-170318-11-PS-About: Memory
+w05-170318-12-PS-About: Memory
